@@ -1,0 +1,7 @@
+TouchableOpacity :- it used for crating button in react Native.
+
+
+
+
+// packages: 
+npm i react-native-swiper:- this package is used to swapping left or right.
