@@ -1,7 +1,18 @@
+// components:
 TouchableOpacity :- it used for crating button in react Native.
-
-
+ScrollView : it is used when we want the screen to be scrollable.when content exceed screen size. 
+SafeAreaView: it is used when we want to show content within the screen size.
+Swiper : used to swipe to different screen.
 
 
 // packages: 
 npm i react-native-swiper:- this package is used to swapping left or right.
+
+
+
+clearing expo cache:
+npx expo start -c
+
+
+
+
